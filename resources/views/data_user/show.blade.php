@@ -1,0 +1,12 @@
+list project ujikom:
+---admin----
+-edit profile
+-cart
+-grafik bulanan
+-keluar obat
+-masuk Obat
+---costumer---
+-template
+-home(descripsi)
+-store(obat random)
+-about (descripsi)
